@@ -6,4 +6,6 @@ To detect masks from images, use detect.py. In it makes changes according to fol
 
 a) On line 130, provide the path to model and labelmap.pbtxt. Both of them are already provided in the repo.
 
-b) On line 133, provide the path to input directory.
+b) On line 133, provide the path to input directory it will automatically take images with extension with .png only.
+
+- It will only use the images with .png extension. If you want to use other extensions(jpg, fpeg), make change on line 102.
