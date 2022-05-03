@@ -8,4 +8,4 @@ a) On line 130, provide the path to model and labelmap.pbtxt. Both of them are a
 
 b) On line 133, provide the path to input directory it will automatically take images with extension with .png only.
 
-- It will only use the images with .png extension. If you want to use other extensions(jpg, fpeg), make change on line 102.
+- It will only use the images with .png extension. If you want to use other extensions(jpg, fpeg), make changes on line 102.
